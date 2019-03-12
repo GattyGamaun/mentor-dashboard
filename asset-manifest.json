@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.18e0e736.chunk.css",
-  "main.js": "/static/js/main.b43dbb91.chunk.js",
-  "main.js.map": "/static/js/main.b43dbb91.chunk.js.map",
-  "static/js/1.925d4cd5.chunk.js": "/static/js/1.925d4cd5.chunk.js",
-  "static/js/1.925d4cd5.chunk.js.map": "/static/js/1.925d4cd5.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.18e0e736.chunk.css.map": "/static/css/main.18e0e736.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.bfcdd07e4fccc679d39b0f2d5eb2cbc5.js": "/precache-manifest.bfcdd07e4fccc679d39b0f2d5eb2cbc5.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/mentor-dashboard/static/css/main.18e0e736.chunk.css",
+  "main.js": "/mentor-dashboard/static/js/main.c8b154cf.chunk.js",
+  "main.js.map": "/mentor-dashboard/static/js/main.c8b154cf.chunk.js.map",
+  "static/js/1.925d4cd5.chunk.js": "/mentor-dashboard/static/js/1.925d4cd5.chunk.js",
+  "static/js/1.925d4cd5.chunk.js.map": "/mentor-dashboard/static/js/1.925d4cd5.chunk.js.map",
+  "runtime~main.js": "/mentor-dashboard/static/js/runtime~main.5ad02569.js",
+  "runtime~main.js.map": "/mentor-dashboard/static/js/runtime~main.5ad02569.js.map",
+  "static/css/main.18e0e736.chunk.css.map": "/mentor-dashboard/static/css/main.18e0e736.chunk.css.map",
+  "index.html": "/mentor-dashboard/index.html",
+  "precache-manifest.939486c28dfd553841b68d2b134afab5.js": "/mentor-dashboard/precache-manifest.939486c28dfd553841b68d2b134afab5.js",
+  "service-worker.js": "/mentor-dashboard/service-worker.js"
 }
